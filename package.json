@@ -1,0 +1,11 @@
+{
+  "name": "crm-neon-backend",
+  "version": "5.4.0",
+  "description": "CRM المعتمرين والرحلات - Neon PostgreSQL Backend",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}
